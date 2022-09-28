@@ -1,0 +1,157 @@
+{
+  "jobCds": [
+    {
+      "id": 1,
+      "jobCd": "AAA-00-0001",
+      "jobName": "テストジョブコード0001",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 2,
+      "jobCd": "AAA-00-0002",
+      "jobName": "テストジョブコード0002",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 3,
+      "jobCd": "AAA-00-0003",
+      "jobName": "テストジョブコード0003",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 4,
+      "jobCd": "AAA-00-0004",
+      "jobName": "テストジョブコード0004",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 5,
+      "jobCd": "AAA-00-0005",
+      "jobName": "テストジョブコード0005",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 6,
+      "jobCd": "AAA-00-0006",
+      "jobName": "テストジョブコード0006",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 7,
+      "jobCd": "AAA-00-0007",
+      "jobName": "テストジョブコード0007",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 8,
+      "jobCd": "AAA-00-0008",
+      "jobName": "テストジョブコード0008",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 9,
+      "jobCd": "AAA-00-0009",
+      "jobName": "テストジョブコード0009",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 10,
+      "jobCd": "AAA-00-0010",
+      "jobName": "テストジョブコード0010",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 11,
+      "jobCd": "AAA-00-0011",
+      "jobName": "テストジョブコード0011",
+      "jobRemarksCds": [
+        {
+          "jobRemarksCd": "0001",
+          "jobRemarksCdName": "インフラタスク"
+        },
+        {
+          "jobRemarksCd": "0002",
+          "jobRemarksCdName": "備考コードテスト0002"
+        },
+        {
+          "jobRemarksCd": "0003",
+          "jobRemarksCdName": "備考コードテスト0003"
+        }
+      ],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 12,
+      "jobCd": "AAA-00-0012",
+      "jobName": "テストジョブコード0012",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 13,
+      "jobCd": "AAA-00-0013",
+      "jobName": "テストジョブコード0013",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    },
+    {
+      "id": 14,
+      "jobCd": "AAA-00-0014",
+      "jobName": "テストジョブコード0014",
+      "jobRemarksCds": [],
+      "isTentative": false,
+      "isDevEnd": false,
+      "isAvailable": true,
+      "isWork": true
+    }
+  ]
+}
